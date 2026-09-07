@@ -1,14 +1,11 @@
-```markdown
-
 # Seasonal Agriculture Performance Analysis 🌾📊
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange.svg)](https://pandas.pydata.org/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-green.svg)](https://seaborn.pydata.org/)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/) 
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange.svg)](https://pandas.pydata.org/) 
+[![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-green.svg)](https://seaborn.pydata.org/) 
 [![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red.svg)](https://streamlit.io/)
 
 An end-to-end data analytics project exploring agricultural performance, seasonal variations, cost structures, and profitability across diverse farming environments. Designed for data science portfolios, agricultural economists, and policymakers seeking data-driven insights into farm-level productivity.
-
 ---
 
 ## 🚀 Project Overview
