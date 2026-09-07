@@ -103,7 +103,3 @@ Run `Vois_Major_project.py` or load it into your preferred IDE / Google Colab se
 ## 📝 License
 
 This project is open-source and available under the [MIT License](https://www.google.com/search?q=LICENSE).
-
-```
-
-```
