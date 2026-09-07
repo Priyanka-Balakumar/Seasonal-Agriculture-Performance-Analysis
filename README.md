@@ -5,7 +5,7 @@
 [![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-green.svg)](https://seaborn.pydata.org/) 
 [![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red.svg)](https://streamlit.io/)
 
-An end-to-end data analytics project exploring agricultural performance, seasonal variations, cost structures, and profitability across diverse farming environments. Designed for data science portfolios, agricultural economists, and policymakers seeking data-driven insights into farm-level productivity.
+A comprehensive major data analytics project developed for **VOIS**, exploring agricultural performance, seasonal variations, cost structures, and profitability across diverse farming environments. Designed for data science portfolios, agricultural economists, and policymakers seeking data-driven insights into farm-level productivity. 
 ---
 
 ## 🚀 Project Overview
